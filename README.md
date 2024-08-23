@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">I love to think</h3>
+<h3 align="center">I love solving problems</h3>
 
-- 🔭 I’m currently looking **for an internship for summer 2025**
+- 🔭 I’m currently looking **for summer 2025 internship**
 
 - 🌱 I’m currently learning **DSA**
 
