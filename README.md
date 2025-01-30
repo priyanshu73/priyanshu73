@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking **for a summer 2025 internship**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Machine Learning**
 
 - ⚡ Fun fact **I used to make short films**
 
