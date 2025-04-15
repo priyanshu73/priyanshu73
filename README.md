@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">I love solving problems</h3>
 
-- 🔭 I’m currently looking **for a summer 2025 internship**
+- 🔭 I’m currently looking **for an internship**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Redis**
 
 - ⚡ Fun fact **I used to make short films**
 
