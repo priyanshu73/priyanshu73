@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Redis**
 
 - ⚡ Fun fact **I used to make short films**
+
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
