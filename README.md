@@ -1,86 +1,109 @@
-```diff
-@@  Priyanshu Pyakurel  @@
-- just another dev
-+ someone who actually enjoys the process
-```
-
 <div align="center">
 
-```diff
-+ Open to internship opportunities
-+ Currently leveling up with Redis
-+ Former short filmmaker turned full-time problem solver
 ```
+╔═══════════════════════════════════════════════════╗
+║           PRIYANSHU PYAKUREL                      ║
+║           Software Engineer in Progress           ║
+╚═══════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=problem+solver+first%2C+developer+second;ex-filmmaker%2C+current+debugger;open+to+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `~/whoami`
+### `$ cat about.diff`
 
 ```diff
-@@ identity.config @@
-- name: "???"
-+ name: "Priyanshu Pyakurel"
+@@ -1,5 +1,5 @@
+- just another GitHub profile
++ a developer who actually reads the docs
 
-- status: "lost"
-+ status: "building things, breaking things, fixing things"
+- status: floating
++ status: actively looking for internship
 
-- interests: []
-+ interests: ["distributed systems", "backend engineering", "the occasional cinematography rabbit hole"]
-
-- fun_fact: null
-+ fun_fact: "I used to make short films 🎬 — turns out storytelling and good code have more in common than you'd think"
+- hobby: none
++ hobby: "I used to make short films 🎬"
++        (turns out debugging a scene and debugging code aren't that different)
 ```
 
 ---
 
-## `~/stack`
+### `$ cat stack.diff`
 
 ```diff
 @@ languages @@
-+ Java          ████████████░░  solid
-+ Python        ███████████░░░  comfortable
-+ JavaScript    ██████████░░░░  daily driver
-+ C / C++       ████████░░░░░░  foundations
+
++ ● Java          ──────────────░░  production-ready
++ ● Python        ─────────────░░░  scripting & beyond  
++ ● JavaScript    ────────────░░░░  the necessary evil
++ ● C / C++       ──────────░░░░░░  where it all started
++ ● SQL           ─────────────░░░  query everything
 
 @@ frontend @@
-+ React         ████████████░░  building
-+ Node.js       ██████████░░░░  gluing it together
 
-@@ data & infra @@
-+ MongoDB       █████████░░░░░  schemas? optional
-+ Redis         ████░░░░░░░░░░  learning ← you are here
-+ Docker        ███████░░░░░░░  containers, containers everywhere
-+ Git           █████████████░  commit early, commit often
++ ● React         ────────────░░░░  component go brrr
++ ● Node.js       ──────────────░░  javascript... but useful
+
+@@ databases @@
+
+- ● just vibes
++ ● MongoDB       ────────────░░░░  for when schemas feel like commitment
++ ● PostgreSQL    ─────────────░░░  for when schemas actually matter
++ ● Redis         ──────░░░░░░░░░░  learning ◄ you are here
+
+@@ devops & tools @@
+
++ ● Docker        ──────────░░░░░░  containers all the way down
++ ● Git           ─────────────░░░  commit early. commit often. panic later.
 ```
 
 ---
 
-## `~/connect`
+### `$ cat status.diff`
 
 ```diff
-- ghosting recruiters
-+ open to conversations
+@@ current @@
 
-+ LinkedIn → https://linkedin.com/in/priyanshu-pyakurel
+- available: false
++ available: true
+
+- looking_for: null
++ looking_for: "internship (backend / fullstack)"
+
+- learning: []
++ learning: ["Redis", "system design", "how to write good commit messages"]
+
+- open_to_dm: false
++ open_to_dm: true  ← seriously, reach out
 ```
 
-<p align="center">
-  <a href="https://linkedin.com/in/priyanshu-pyakurel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+---
+
+### `$ cat connect.diff`
+
+```diff
+- lurking on LinkedIn
++ actually active on LinkedIn
+```
+
+<div align="center">
+
+<a href="https://linkedin.com/in/priyanshu-pyakurel">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internship-00FF41?style=for-the-badge" />
+
+</div>
 
 ---
 
 <div align="center">
 
 ```diff
-- waiting for the right opportunity
-+ actively looking for an internship where I can contribute & grow
++ if you got this far, you might as well say hi 👋
 ```
-
-*drop a message, I don't bite* 🤝
 
 </div>
