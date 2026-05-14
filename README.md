@@ -7,7 +7,6 @@
 ╚═══════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=problem+solver+first%2C+developer+second;ex-filmmaker%2C+current+debugger;open+to+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
