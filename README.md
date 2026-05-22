@@ -20,7 +20,7 @@
 + a developer who actually reads the docs
 
 - status: floating
-+ status: actively looking for internship
++ status: building
 
 - hobby: none
 + hobby: "I used to make short films 🎬"
